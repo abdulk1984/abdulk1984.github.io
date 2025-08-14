@@ -1,3 +1,9 @@
+<!-- ===== TOP BANNER ===== -->
+<div align="center">
+  <img src="./assets/Abdulkarim_LinkedIn_Profile_Banner.png" alt="Profile Banner" width="100%" />
+</div>
+
+<!-- ===== HELLO & INTRO GIFS ===== -->
 <div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
@@ -5,9 +11,7 @@
 
 <details>
 <p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
-
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID) <be>
-
 </details>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=abdulk1984&style=flat&color=orange&label=PROFILE+VIEWS)
@@ -17,6 +21,7 @@
 
 <hr></hr>
 
+<!-- ===== TOOLS ===== -->
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -36,7 +41,6 @@
 
 ```dart
 // tools_I_use organized
-
 class About extends Me { 
   const myTools = {  
     "ProgramingLanguages" : { "JavaScript", "TypeScript", "Dart" },
@@ -47,33 +51,3 @@ class About extends Me {
     "DesignTools" : { "Figma", "Photoshop" }
   };
 }
-
-🎓 Education & Certifications
-
-Master’s in International Cooperation and Humanitarian Aid – KALU Institute, Spain (2023)
-
-Bachelor’s Degree – Information Technology & Internet (2010)
-
-Higher Diploma – Computer Software Applications Technology (2008)
-
-Cisco CCNA Diploma – Networking & Infrastructure (2014)
-
-IELTS Academic Certificate – British Council, Cairo (2021)
-
-Safeguarding Focal Point Training – International Medical Corps (2023)
-
-<img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />   I’m currently working on Full Stack Web & Mobile Apps. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />    Passionate about IT Solutions & Business Consulting. <br>
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />   Ask me about Next.js, NestJS, or Digital Transformation. <br>
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />   Find me on LinkedIn: Abdulkarim Al-Serri<br>
-
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />    Fun fact: My tech career bridges full-stack coding with business growth strategy.<br>
-
-<div align="center" > <a href="https://github.com/abdulk1984"> <img src="https://raw.githubusercontent.com/abdulk1984/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%"> <img src="https://raw.githubusercontent.com/abdulk1984/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%"> <img src="https://raw.githubusercontent.com/abdulk1984/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%"> </a> <details> <summary>More stats</summary> <img align="center" src="https://raw.githubusercontent.com/abdulk1984/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" > </details> <hr></hr>
-
-Code Cycle<br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Debugging..."/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="Magic!"/><br> </div> ```
